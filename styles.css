@@ -8,6 +8,15 @@ h1 {
   color: #e2dcc8;
   font-family: "Arvo", cursive;
   text-shadow: 3px 0 #000;
+  margin: 0;
+  padding-top: 5rem;
+  }
+
+  p {
+    margin: 0;
+    color: #e2dcc8;
+    font-size: 1rem;
+    font-family: sans-serif;
   }
 
 footer {
