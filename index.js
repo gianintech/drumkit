@@ -1,4 +1,4 @@
-
+alert("For the best experience, please use a computer.")
 
 // Detecting button press
 
@@ -20,6 +20,8 @@ document.addEventListener("keydown", function(event) {
   buttonAnimation(event.key);
 
 });
+
+
 
 function makeSound(key) {
   switch (key) {
